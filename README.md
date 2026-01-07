@@ -7,13 +7,13 @@
 
 ---
 
-### 🧠 Sobre mim
+###  - Sobre mim
 
 Sou apaixonado por tecnologia e estou em constante aprendizado. Atualmente, estou me aprofundando em desenvolvimento web com foco em backend e banco de dados. Gosto de transformar ideias em código e estou sempre buscando novos desafios para evoluir.
 
 ---
 
-### 🛠️ Tecnologias que gosto de utilizar
+### - Tecnologias que gosto de utilizar
 
 <div style="display: inline_block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo" />
@@ -29,7 +29,7 @@ Sou apaixonado por tecnologia e estou em constante aprendizado. Atualmente, esto
 
 ---
 
-### 📚 Tecnologias que estou aprendendo
+### - Tecnologias que estou aprendendo
 
 <div style="display: inline_block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
@@ -38,7 +38,7 @@ Sou apaixonado por tecnologia e estou em constante aprendizado. Atualmente, esto
 
 ---
 
-### 📊 Estatísticas do GitHub
+### - Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe-Santos-Prado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
