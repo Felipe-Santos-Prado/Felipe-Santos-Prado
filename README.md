@@ -36,23 +36,7 @@ Sou apaixonado por tecnologia e estou em constante aprendizado. Atualmente, esto
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo" />
 </div>
 
----
 
-### - Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe-Santos-Prado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Santos-Prado&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
----
-
-<!--### 🐍 Cobrinha de commits
-
-![Snake animation](https://github.com/Felipe-Santos-Prado/Felipe-Santos-Prado/blob/output/github-contribution-grid-snake.svg)
-
----
--->
 
 ### 📫 Como me encontrar
 
